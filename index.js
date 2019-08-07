@@ -1,7 +1,7 @@
 const http = require('http');
 
 const name = 'node-hello-world';
-const port = '8888';
+const port = '80';
 
 const app = new http.Server();
 
